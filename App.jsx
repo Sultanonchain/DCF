@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 
 // --- CONFIGURATION ---
 // You will need a free API key from Financial Modeling Prep or similar to make this "Automatic"
-const API_KEY = "YOUR_FREE_API_KEY_HERE"; 
+const API_KEY = "d2Ja1a4uLHfYgAmL7J8a8S2mfeWdR0OS"; 
 
 const App = () => {
   const [ticker, setTicker] = useState('');
